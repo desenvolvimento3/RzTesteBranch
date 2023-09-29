@@ -1,9 +1,5 @@
 NukeCity('Berlin');
 
-NukeCity('Rio de janeiro');
-
 NukeCity('Tokyo');
 
 NukeCity('Washington');
-
-NukeCity('Brasília');
