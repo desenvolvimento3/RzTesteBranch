@@ -2,4 +2,4 @@ NukeCity('Berlin');
 
 NukeCity('Tokyo');
 
-NukeCity('Morkow');
+NukeCity('Boston');
